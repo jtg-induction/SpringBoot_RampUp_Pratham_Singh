@@ -2,7 +2,6 @@ package com.curd.demo.Crud.dto.user;
 
 import com.curd.demo.Crud.model.User;
 import org.springframework.stereotype.Service;
-
 import java.util.function.Function;
 
 @Service

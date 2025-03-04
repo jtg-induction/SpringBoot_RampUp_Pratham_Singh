@@ -4,7 +4,6 @@ import com.curd.demo.Crud.model.UserDetails;
 import jakarta.persistence.*;
 import lombok.Data;
 
-
 @Data
 public class UserDto {
 
